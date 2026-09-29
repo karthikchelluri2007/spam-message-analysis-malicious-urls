@@ -1,0 +1,13 @@
+{
+  "rows_used": 640088,
+  "train_rows": 512070,
+  "test_rows": 128018,
+  "accuracy": 0.8846959021387617,
+  "top_features": [
+    "path_length",
+    "special_char_count",
+    "dot_count"
+  ],
+  "chi2": 302842.09139303915,
+  "chi2_p_value": 0.0
+}

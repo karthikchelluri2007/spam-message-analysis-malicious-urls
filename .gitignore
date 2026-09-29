@@ -1,0 +1,4 @@
+# Large generated files (recreated by running the notebooks)
+dataset/intermediate/*.csv
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,5 @@
+type,count,avg_url_length,avg_keyword_count,pct_https,pct_ip_address,pct_shortener,avg_special_chars
+benign,427381,57.677,0.088,0.5,0.0,0.1,8.502
+defacement,95150,86.179,0.013,0.0,0.0,0.0,14.929
+malware,23612,46.62,0.012,28.4,49.8,0.0,9.402
+phishing,93945,45.86,0.163,7.3999999999999995,0.4,0.2,6.721
